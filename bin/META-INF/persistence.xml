@@ -39,7 +39,7 @@
 		<properties>
 			<property 
 				name="javax.persistence.schema-generation.database.action"
-				value="create"/> 
+				value="none"/> 
 
 			<property 
 				name="javax.persistence.jdbc.driver" 
